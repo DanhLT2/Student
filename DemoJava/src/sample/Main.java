@@ -21,7 +21,7 @@ public class Main {
 				m.printAll();
 				break;
 			default:
-				System.out.println("Good Bye");
+				System.out.println("GoodBye");
 			}
 		} while (choice < 3);
 
