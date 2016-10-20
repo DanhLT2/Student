@@ -11,7 +11,7 @@ public class Main {
 		int choice;
 		
 		do {
-			System.out.print("input Menu: ");
+			System.out.print("Choice Menu: ");
 			choice = sc.nextInt();
 			switch (choice) {
 			case 1:
