@@ -5,6 +5,10 @@ M?t chi?u êm n?ng, kí ?c ngày xua quay v?
 Nh? nhàng g?i anh tr? l?i noi dôi ta dã quen
 Nhìn không gian v?n th?, v?n luôn yên bình
 >>>>>>> boss1
+<<<<<<< HEAD
 chang co gi
 -----------
 is2 change
+=======
+chang co gi het
+>>>>>>> is1
